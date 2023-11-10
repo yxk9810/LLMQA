@@ -1,0 +1,15 @@
+langchain
+pypdfium2
+PyMuPDF
+tqdm
+beautifulsoup4
+sentence_transformers
+faiss-gpu
+accelerate
+colorama
+bitsandbytes
+sentencepiece
+streamlit
+transformers_stream_generator
+cpm_kernels
+transformers==4.33.1
